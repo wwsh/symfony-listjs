@@ -1,0 +1,11 @@
+{
+  "name": "wwsh/symfony-listjs",
+  "description": "A bundle for integrating List.js into Symfony projects",
+  "license": "MIT",
+  "type": "project",
+  "autoload":    {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
